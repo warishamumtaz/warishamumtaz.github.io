@@ -1,0 +1,26 @@
+---
+title: "index"
+author: "Warisha"
+date: "26/08/2024"
+output: html_document
+theme: lumen
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About me
+
+Hello World!
+
+
+## My hobbies
+
+- reading
+- yoga
+
+## Contact
+
+Phone: 000 000 0000
